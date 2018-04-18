@@ -27,8 +27,8 @@ For __Mac/OSX__:
 	conda env create -f requirements/dog-mac.yml
 	source activate dog-project
 	KERAS_BACKEND=tensorflow python -c "from keras import backend"
-  python -m ipykernel install --user --name dog-project --display-name "dog-project"
-  jupyter notebook dog_app.ipynb
+        python -m ipykernel install --user --name dog-project --display-name "dog-project"
+        jupyter notebook dog_app.ipynb
 ```
 
 For __Linux__:
@@ -36,8 +36,8 @@ For __Linux__:
 	conda env create -f requirements/dog-linux.yml
 	source activate dog-project
 	KERAS_BACKEND=tensorflow python -c "from keras import backend"
-  python -m ipykernel install --user --name dog-project --display-name "dog-project"
-  jupyter notebook dog_app.ipynb
+        python -m ipykernel install --user --name dog-project --display-name "dog-project"
+        jupyter notebook dog_app.ipynb
 ```
 
 For __Windows__:
@@ -46,5 +46,5 @@ For __Windows__:
 	activate dog-project
 	set KERAS_BACKEND=tensorflow
 	python -c "from keras import backend"
-  python -m ipykernel install --user --name dog-project --display-name "dog-project"
-  jupyter notebook dog_app.ipynb
+        python -m ipykernel install --user --name dog-project --display-name "dog-project"
+        jupyter notebook dog_app.ipynb

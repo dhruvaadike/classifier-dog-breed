@@ -17,7 +17,9 @@ Output for a human
 ## Project Instructions
 
 Dog image dataset can be found [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+
 Human image dataset can be found [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+
 Bottleneck features to run this code in your local computer can be found [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
 
 Navigate to the root folder and use the following commands to get started.

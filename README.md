@@ -1,9 +1,9 @@
 //]: # (Image References)
 
-[image1]: ./sample1.png "Sample Output"
+[image1]: ./images/sample1.png "Sample Output"
 
 ## Project Overview
 
 This is a project I worked on as a part of my Udacity Deep Learning Nanodegree. Given an image, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-![Sample Output] [image1]
+![Sample Output][image1]

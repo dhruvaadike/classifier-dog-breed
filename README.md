@@ -54,8 +54,8 @@ For __Windows__:
 
 ### Useful Links
 
-1. [CNN's for Visual Recognition](http://cs231n.github.io/)
-2. [Large Scale image Recognition using DNN's](https://arxiv.org/pdf/1409.1556.pdf)
+1. Andrej Karpathy's [CS231n Stanford course](http://cs231n.github.io/) on Convolutional Neural Networks.
+2. [Michael Nielsen's book on Deep Learning](http://neuralnetworksanddeeplearning.com/)
 3. [Transfer Learning](http://cs231n.github.io/transfer-learning/)
 4. [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 5. [Summary of Deep Models for Face Recognition](http://cs.wellesley.edu/~vision/slides/Qianli_summary_deep_face_models.pdf)
@@ -66,6 +66,8 @@ For __Windows__:
 10. [Going Deeper with Convolutions](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 11. [Deep Learning with depthwise separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
 12. [Sebastian Thrun's cancer detecting CNN](https://www.nature.com/articles/nature21056.epdf?referrer_access_token=_snzJ5POVSgpHutcNN4lEtRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuP9jVts1q2g1KBbk3Pd3AelZ36FalmvJLxw1ypYW0UxU7iShiMp86DmQ5Sh3wOBhXDm9idRXzicpVoBBhnUsXHzVUdYCPiVV0Slqf-Q25Ntb1SX_HAv3aFVSRgPbogozIHYQE3zSkyIghcAppAjrIkw1HtSwMvZ1PXrt6fVYXt-dvwXKEtdCN8qEHg0vbfl4_m&tracking_referrer=edition.cnn.com)
+13. [Goodfellow, Bengio and Courville's advanced book on Deep Learning](https://www.deeplearningbook.org/)
+
 
 	
 	
